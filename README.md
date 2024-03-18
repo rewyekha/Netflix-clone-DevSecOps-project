@@ -10,17 +10,10 @@
 <br />
 
 <div align="center">
-  <img src="./public/assets/home-page.png" alt="Logo" width="100%" height="100%">
+  <img src="https://github.com/rewyekha/Netflix-clone-DevSecOps-project/blob/4e6c3155f1eae260f57b1d071de3a2b59c70cc8f/src/Screenshot%20(160).png" alt="Logo" width="100%" height="100%">
   <p align="center">Home Page</p>
 </div>
 
-# **Youtube Video for step by step Demonstration!**
-[![Video Tutorial](https://img.youtube.com/vi/g8X5AoqCJHc/0.jpg)](https://youtu.be/g8X5AoqCJHc)
-
-
-## Susbcribe:
-[https://www.youtube.com/@cloudchamp?
-](https://www.youtube.com/@cloudchamp?sub_confirmation=1)
 
 # Deploy Netflix Clone on Cloud using Jenkins - DevSecOps Project!
 
